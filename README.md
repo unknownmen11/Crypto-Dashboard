@@ -1,5 +1,4 @@
 # Crypto Dashboard
-
 Real-time crypto analytics dashboard.
 
 ## Features
@@ -10,7 +9,6 @@ Real-time crypto analytics dashboard.
 - News aggregator
 
 ## Tech Stack
-
 - React
 - TypeScript
 - Chart.js
