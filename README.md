@@ -11,5 +11,3 @@ Real-time crypto analytics dashboard.
 - Chart.js
 - CoinGecko API
 ## License
-
-MIT
