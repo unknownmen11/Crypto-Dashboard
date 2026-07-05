@@ -8,4 +8,4 @@ Real-time crypto analytics dashboard.
 ## Tech Stack
 - TypeScript
 - Chart.js
-- CoinGecko API
+- CoinGecko
