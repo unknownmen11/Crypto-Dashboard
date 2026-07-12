@@ -6,4 +6,4 @@ Real-time crypto analytics dashboard.
 - Market metrics
 ## Tech Stack
 - TypeScript
-- Chart.js
+- Chart
