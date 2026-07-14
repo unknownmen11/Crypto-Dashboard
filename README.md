@@ -4,7 +4,6 @@ Real-time crypto analytics dashboard.
 - Portfolio overview
 - Price charts
 - Market metrics
-- 
-## Tech Stack
+- ## Tech Stack
 - TypeScript
 - Chart
